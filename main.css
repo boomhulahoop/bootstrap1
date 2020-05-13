@@ -1,0 +1,42 @@
+body {
+	font-family: "Mali", cursive;
+}
+.height {
+	min-height: 100vh;
+}
+.title-underline {
+	height: 5px;
+	width: 200px;
+	/*background-color: blue !important;*/
+	/*		top-bt left-right*/
+	margin: 0 auto;
+}
+.height-80 {
+	min-height: 80vh;
+}
+.about-picture {
+	background: url(../project/img/pngtree-ppt-minimalistic-geometric-background-backgroundppt-template-backgroundsimplecool-image_54790.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.card-img-top {
+	height: 400px;
+	object-fit: contain;
+}
+.size-image {
+	height: 600px;
+	object-fit: contain;
+}
+.carousel-indicators {
+	bottom: px;
+}
+#filler,
+#progress {
+	background: url(img-project-section/project6.jpeg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
